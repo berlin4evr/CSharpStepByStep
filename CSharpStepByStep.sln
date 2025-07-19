@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAndInstanceClass", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4F57ED17-5270-419D-A398-3F3BB033B2DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{54609439-D1EE-465A-8855-490AFAB43F96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{4F57ED17-5270-419D-A398-3F3BB033B2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F57ED17-5270-419D-A398-3F3BB033B2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F57ED17-5270-419D-A398-3F3BB033B2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54609439-D1EE-465A-8855-490AFAB43F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54609439-D1EE-465A-8855-490AFAB43F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54609439-D1EE-465A-8855-490AFAB43F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54609439-D1EE-465A-8855-490AFAB43F96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
