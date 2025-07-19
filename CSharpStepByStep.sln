@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeConversion", "DataT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{D0A2364E-8D2F-4969-9E61-C257CF8782BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Comments.csproj", "{CD516A8C-8749-4AFC-8935-AE4F5C0931FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D0A2364E-8D2F-4969-9E61-C257CF8782BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A2364E-8D2F-4969-9E61-C257CF8782BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A2364E-8D2F-4969-9E61-C257CF8782BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD516A8C-8749-4AFC-8935-AE4F5C0931FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD516A8C-8749-4AFC-8935-AE4F5C0931FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD516A8C-8749-4AFC-8935-AE4F5C0931FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD516A8C-8749-4AFC-8935-AE4F5C0931FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
