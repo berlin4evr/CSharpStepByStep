@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Na
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{8FA80EA3-AB9E-45EC-8067-27B0C49B0412}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAndInstanceClass", "StaticAndInstanceClass\StaticAndInstanceClass.csproj", "{6CE2B212-7AEE-4F6B-BFD2-59839A51A1AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{8FA80EA3-AB9E-45EC-8067-27B0C49B0412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FA80EA3-AB9E-45EC-8067-27B0C49B0412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA80EA3-AB9E-45EC-8067-27B0C49B0412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE2B212-7AEE-4F6B-BFD2-59839A51A1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE2B212-7AEE-4F6B-BFD2-59839A51A1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE2B212-7AEE-4F6B-BFD2-59839A51A1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE2B212-7AEE-4F6B-BFD2-59839A51A1AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
