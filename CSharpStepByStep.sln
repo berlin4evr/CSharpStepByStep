@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAndWrite", "ReadAndWrit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInTypes", "BuiltInTypes\BuiltInTypes.csproj", "{C954042F-4EDE-4AD2-9B43-040199E30054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonOperators", "CommonOperators\CommonOperators.csproj", "{C25CA175-6C1E-45E3-848F-01BF57FEFECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C954042F-4EDE-4AD2-9B43-040199E30054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C954042F-4EDE-4AD2-9B43-040199E30054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C954042F-4EDE-4AD2-9B43-040199E30054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25CA175-6C1E-45E3-848F-01BF57FEFECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25CA175-6C1E-45E3-848F-01BF57FEFECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25CA175-6C1E-45E3-848F-01BF57FEFECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25CA175-6C1E-45E3-848F-01BF57FEFECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
