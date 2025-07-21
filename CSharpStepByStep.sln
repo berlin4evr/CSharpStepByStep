@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{232F2AFD-95B0-4D1C-8ED0-5B927E9702FE}"
 EndProject
@@ -50,6 +50,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4F57ED17-5270-419D-A398-3F3BB033B2DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{54609439-D1EE-465A-8855-490AFAB43F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding_2", "MethodHiding_2\MethodHiding_2.csproj", "{62D99861-310F-4FAB-A775-74C01FAECD90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{54609439-D1EE-465A-8855-490AFAB43F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54609439-D1EE-465A-8855-490AFAB43F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54609439-D1EE-465A-8855-490AFAB43F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D99861-310F-4FAB-A775-74C01FAECD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D99861-310F-4FAB-A775-74C01FAECD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D99861-310F-4FAB-A775-74C01FAECD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D99861-310F-4FAB-A775-74C01FAECD90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
